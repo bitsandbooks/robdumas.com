@@ -1,7 +1,3 @@
-# Ignore the css/ folder, because we're using
-# LESS to compile it.
-css/*
-
 # Numerous always-ignore extensions #
 #####################################
 *~

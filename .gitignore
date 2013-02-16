@@ -15,6 +15,7 @@
 temp/*
 *.swp
 src/*
+temp.html
 
 # OS and/or Editor files/folders #
 ##################################

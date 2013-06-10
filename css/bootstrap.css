@@ -856,6 +856,6 @@ a.label:hover,a.label:focus,a.badge:hover,a.badge:focus{color:#ffffff;text-decor
 .invisible{visibility:hidden;}
 .affix{position:fixed;}
 .hero-pic{float:left;padding-right:1em;}
-ul.social{list-style-type:none;margin:auto;}ul.social li{display:inline;margin-right:0.5em;}ul.social li a{display:inline-block;width:50px;padding-top:55px;background-image:url('/img/social-sprites.png');background-repeat:repeat-x;text-align:center;}ul.social li a.sprite-twitter{background-position:0 0;}
-ul.social li a.sprite-github{background-position:100px 0;}
-ul.social li a.sprite-linkedin{background-position:50px 0;}
+ul.social{list-style-type:none;margin:auto;}ul.social li{display:inline;margin-right:0.5em;}ul.social li a{display:inline-block;width:48px;padding-top:55px;background-image:url('../img/social-sprites.png');background-repeat:repeat-x;text-align:center;}ul.social li a.sprite-twitter{background-position:0 0;}
+ul.social li a.sprite-github{background-position:150px 0;}
+ul.social li a.sprite-linkedin{background-position:100px 0;}

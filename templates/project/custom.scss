@@ -1,0 +1,43 @@
+body {
+  min-height: 2000px;
+  padding-top: 50px;
+}
+
+.navbar-fixed-top {
+  margin-bottom: 19px;
+}
+
+.section-header {
+	line-height: 2em;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.section-description {
+	font-weight: bold;
+	font-size: 125%;
+	padding-bottom: 1em;
+	text-align: center;
+}
+
+.headshot {
+	float: right;
+	margin: 1em;
+	border: solid 1px black;
+}
+
+.def-list-education dd {
+	padding-bottom: 0.5em;
+}
+
+ul.social-links {
+	padding: 0px;
+	li {
+		display: inline;
+		list-style-type: none;
+		margin: 0px 1em 0px 0px;
+	}
+}
+
+.marg-bottom { margin-bottom: 3em; }
+.marg-top { margin-top: 3em; }
